@@ -1,0 +1,9 @@
+
+{
+    "short_name": "Modelaje Independiente",
+    "name": "Netos Company SA de CV",
+    "start_url": "https://www.modelajeindependiente.com",
+    "display": "standalone",
+    "theme_color": "teal",
+    "background_color": "#ffffff"
+  }
